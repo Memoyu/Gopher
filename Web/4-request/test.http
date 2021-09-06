@@ -10,3 +10,6 @@ Content-Type: application/json
     "name": "test",
     "time": "2021-09-06 11:22"
 }
+
+### test GET request Query
+GET http://localhost:8080/query?id="12345"&name="memoyu"

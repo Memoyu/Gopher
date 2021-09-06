@@ -1,0 +1,12 @@
+### test GET request write
+GET http://localhost:8080/write
+
+### test GET request writeHeader
+GET http://localhost:8080/writeheader
+
+
+### test GET request setheader
+GET http://localhost:8080/setheader
+
+### test GET request json
+GET http://localhost:8080/json
