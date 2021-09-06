@@ -2,6 +2,8 @@ package main
 
 import "net/http"
 
+// Handler 的使用
+
 type helloHandler struct{}
 
 // 自定义handler,用于处理http请求

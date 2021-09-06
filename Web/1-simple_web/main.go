@@ -2,6 +2,8 @@ package main
 
 import "net/http"
 
+// 简单Go Web 程序
+
 type myHandler struct{}
 
 // 自定义handler,用于处理http请求
